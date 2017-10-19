@@ -1,0 +1,209 @@
+body {
+    background-image:  linear-gradient(to bottom, #c0ff00, #ffffff);
+}
+
+p {
+    text-align: center;
+    margin: 20px auto 20px auto;
+    max-width: 1000px;
+}
+
+#album {
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: #653119;
+    padding: 0px 5px;
+    font-family: Engravers MT;
+    max-width: 310px;
+    text-align: center;
+    margin: auto;
+}
+
+table {
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    font-family: Engravers MT;
+    border-bottom: solid #078fe8;
+    border-top: solid #078fe8;
+    padding: 30px 0px 30px 0px;
+}
+
+h2.biography {
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: #653119;
+    padding: 0px 5px;
+    font-family: Engravers MT;
+    max-width: 275px;
+    text-align: center;
+    margin: auto auto 20px auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+h3.beginnings {
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: #653119;
+    padding: 0px 5px;
+    font-family: Engravers MT;
+    max-width: 250px;
+    text-align: center;
+    margin: auto;
+}
+
+h3.tour{
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: #653119;
+    padding: 0px 5px;
+    font-family: Engravers MT;
+    max-width: 120px;
+    text-align: center;
+    margin: auto;
+}
+
+h3.website_source {
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: #653119;
+    padding: 0px 5px;
+    font-family: Engravers MT;
+    max-width: 140px;
+    font-size: 16px;
+    text-align: center;
+    margin: auto;
+}
+
+p.beginnings {
+    max-width: 1000px;
+    padding: 0px 5px 35px 0px;
+    text-align: center;
+    margin: 20px auto 40px auto;
+    border-bottom: solid #653119;
+    
+    
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    font-family: arial, sans-serif;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    font-family: Engravers MT;
+    font-size: 10px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #000000;
+}
+
+nav li:hover {
+    background-color: #9e7963;
+}
+
+img.boot {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 20%;
+}
+
+img.piano {
+    display: block;
+    margin: auto auto auto 365px;
+    width: 20%;
+    border: outset 5px;    
+}
+    
+img.guitar {
+    display: block;
+    margin: auto auto auto 635px;
+    width: 20%;
+    border: outset 5px;
+}
+
+img.member {
+    display: block;
+    margin: auto;
+    width: 20%;
+    border: outset 5px;
+}
+
+ul.locations {
+    list-style-type: none;
+    margin: auto;
+}
+
+ul.locations li {
+    float: left;
+    display: block;
+    border: solid 1px;
+    margin: 20px;
+    padding: 3px;
+}
+
+ul.sizes {
+    list-style-type: none;
+    margin: auto;
+}
+
+ul.sizes li {
+    display: block;
+    border: solid 1px;
+    max-width: 30px;
+    margin: auto auto 10px auto;
+    padding: 3px;
+}
+
+ol li {
+    display: block;
+    border: solid 1px;
+    max-width: 240px;
+    margin: auto auto 5px auto;
+    padding: 3px;
+}
+
+ol li:hover {
+    background-color: #fff;
+}
+
+#schedulerefer {
+    margin: 20px auto 75px auto;
+    border-bottom: solid #653119;
+    padding-bottom: 30px;
+}
+
+#simpsonlogo {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+.below_menu_container {
+    padding-top: 125px;
+}
