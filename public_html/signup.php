@@ -30,8 +30,8 @@
 
 <body>
 
+ <?php include '../resources/navigation.php'; ?>
 
-<?php include '../resourses/navigation.php'; ?>
 
 <div class = "below_menu_container">
 

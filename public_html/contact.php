@@ -31,7 +31,7 @@
 <body>
 
 
-<?php include '../resourses/navigation.php'; ?>
+ <?php include '../resources/navigation.php'; ?>
 
 <div class = "below_menu_container">
 
@@ -58,3 +58,4 @@ border-bottom: solid #078fe8;border-top: solid #078fe8;padding: 30px 0px 30px 0p
 <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
  <?php include '../resources/footer.php'; ?>
+</body>
