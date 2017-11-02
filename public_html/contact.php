@@ -31,36 +31,7 @@
 <body>
 
 
-<nav class="navbar navbar-default navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-
-            <!-- Three line "hamburger" icon for the collapsed navigation -->
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-
-          <!-- Title on nav bar -->
-          <a class="navbar-brand" href="#">Pop Up Games</a>
-        </div>
-
-        <div id="navbar" class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="index.html">Index</a></li>
-            <li><a href="about.html">About the Business</a></li>
-            <li><a href="games.html">Games</a></li>
-            <li><a href="events.html">Events</a></li>
-            <li><a href="testimonials.html">Testimonials</a></li>
-            <li><a href="contact.html">Contact Information</a></li>
-            <li><a href="signup.html">Sign up</a></li>
-            <li><a href="login.html">Log-in</a></li>
-          </ul>
-        </div>
-      </div>
-    </nav>
+<?php include '../resourses/navigation.php'; ?>
 
 <div class = "below_menu_container">
 
@@ -85,6 +56,5 @@ border-bottom: solid #078fe8;border-top: solid #078fe8;padding: 30px 0px 30px 0p
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<footer>
-  &copy; 2017 Pop Up Games
-  </footer>
+
+ <?php include '../resources/footer.php'; ?>
