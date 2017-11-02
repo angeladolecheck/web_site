@@ -28,9 +28,8 @@
 
 <body>
 
-
-  <?php include '../resourses/navigation.php'; ?>
-
+  <?php include '../resources/navigation.php'; ?>
+ 
 <div class = "below_menu_container">
 
 <h1 style="text-align:center;font-size: 35px;font-family: Engravers MT;
