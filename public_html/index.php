@@ -6,10 +6,10 @@
   <meta charset="utf-8">
 
   <title>Pop Up Games Mini Golf</title>
-<meta name="google-site-verification" content="nFbVzafBsZa98LAmCmxcVZ0R6saTtlQLwIo-8Q9Jiu8" />
+
 <meta name="google-site-verification" content="MXWezksTaPadi3hsWtDKuLwiDK73-6JgT7i8M0vCb5o" />
 
-<meta name="google-site-verification: google06300e52210a3985.html" />
+
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/sandstone/bootstrap.min.css">
