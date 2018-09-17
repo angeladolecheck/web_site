@@ -56,7 +56,7 @@ border-bottom: solid #078fe8;border-top: solid #078fe8;padding: 30px 0px 30px 0p
       <tr>
         <td>Mini Golf</td>
         <td>A movable game of 6-hole golf.</td>
-        <td>$25 for the first hour and $10 for each additional hour.</td>
+        <td>$50 for the first hour and $25 for each additional hour.</td>
       </tr>
       <tr>
         <td>Croquet</td>
@@ -80,10 +80,8 @@ border-bottom: solid #078fe8;border-top: solid #078fe8;padding: 30px 0px 30px 0p
     </tbody>
     <tfoot>
       <tr>
-        <td>Rent all games</td> 
-        <td> for </td>
-        <td>$100 a day.</td>
-      </tr>
+        <td>Ask about Specials</td> 
+       </tr>
     </tfoot>
   </table>
 

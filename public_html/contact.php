@@ -46,9 +46,9 @@ border-bottom: solid #078fe8;border-top: solid #078fe8;padding: 30px 0px 30px 0p
   
 <h2>Contact Information</h2>
 <h3>Phone Number</h3>
-<p>CEO Phone Number: 515-808-0297</p>
+<p>Phone Number: 515-808-0297</p>
 <h3>Email</h3>
-<p>Pop Up Games Email: popupgames@gmail.com</p>
+<p>Pop Up Games Email: popupgames01@gmail.com</p>
 <h3>Social Media</h3>
 <p>Facebook: Pop Up Games</p>
 
