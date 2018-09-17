@@ -44,7 +44,8 @@ border-bottom: solid #078fe8;border-top: solid #078fe8;padding: 30px 0px 30px 0p
   <img src="img/logo.jpg" alt="Pop Up Games Logo"/>
 
   
-<h2>Contact Information</h2>
+<h2>Contact Information</h2> 
+<h2>Owner Angela Dolecheck
 <h3>Phone Number</h3>
 <p>Phone Number: 515-808-0297</p>
 <h3>Email</h3>
